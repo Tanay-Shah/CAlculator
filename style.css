@@ -1,7 +1,7 @@
 *{
  margin:0;
  box-sizing: border-box;
- font-family: 'Comic Neue', cursive;
+/*  font-family: 'Comic Neue', cursive; */
  background: rgb(131,58,180);
  background: rgb(34,193,195);
  background: linear-gradient(96deg, rgba(34,193,195,1) 0%, rgba(41,36,26,1) 100%);
@@ -43,6 +43,8 @@ h1{
     padding: 1.3rem;
     font-size: medium;
     border-radius: 2rem;
+     color: black;
+    font-weight: 600;
 }
 
 #CALCULATOR > .btn > #btn1{
