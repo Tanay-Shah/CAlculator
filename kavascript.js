@@ -1,7 +1,7 @@
 let input = document.getElementById(`inputbox`);
 let buttons = document.querySelectorAll('button');
 let String=``;
-
+let check=1;
 buttons.forEach(button => {
     button.addEventListener(`click`,(e) => {
 
